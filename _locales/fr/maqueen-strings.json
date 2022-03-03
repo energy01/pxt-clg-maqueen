@@ -28,5 +28,5 @@
   "maqueen.motorStop|block": "Stop le moteur|%motors",
   "maqueen.readPatrol|block": "Lire l'état du capteur de ligne|%patrol",
   "maqueen.Ultrasonic|block": "Distance mesurée par l'ultrason en |%unit",
-  "maqueen.writeLED|block": "%ledswitch|la led|%led"
+  "maqueen.writeLED|block": "LED |%led |%ledswitch"
 } 
