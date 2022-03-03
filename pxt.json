@@ -1,0 +1,29 @@
+{
+    "name": "maqueen",
+    "version": "0.0.1",
+    "description": "Maqueen Robot microbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "ir": "github:tangjie133/pxt-DFRobot_IR#v0.0.7"
+    },
+    "files": [
+        "maqueen.ts",
+        "enums.d.ts",
+        "shims.d.ts",
+        "README.md",
+        "_locales/fr/maqueen-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
